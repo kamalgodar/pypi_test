@@ -1,5 +1,5 @@
-Metadata-Version: 2.4
-Name: package1
+Metadata-Version: 2.1
+Name: kamalfirstpackage
 Version: 0.1.0
 Summary: A tiny example Python package
 Author-email: Kamal Godar <kamalgodar9244@gmail.com>
@@ -14,7 +14,6 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: build>=1.2.2.post1
 Requires-Dist: license>=0.1a3
-Dynamic: license-file
 
 # pypi_test
 
@@ -23,4 +22,4 @@ This is a normal test scripts to test the PyPi.
 ## Installation
 
 ```bash
-pip install package1
+pip install kamalfirstpackage
