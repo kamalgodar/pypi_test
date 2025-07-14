@@ -1,5 +1,9 @@
 LICENSE
+MANIFEST.in
 README.md
+main.py
+main2.py
+main3.py
 pyproject.toml
 src/kamalfirstpackage/__init__.py
 src/kamalfirstpackage/cli.py
