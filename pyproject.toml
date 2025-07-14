@@ -30,5 +30,8 @@ Homepage = "https://github.com/kamalgodar/pypi_test"
 [project.scripts]
 pypi_test = "kamalfirstpackage.cli:main"
 
+[tool.setuptools]
+include-package-data = true
+
 [tool.setuptools.packages.find]
 where = ["src"]
