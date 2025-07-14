@@ -4,8 +4,8 @@ import sys
 from pathlib import Path
 
 TEMPLATE_FILES = [
-    ("src/kamalfirstpackage/core.py", "core.py"),
-    ("src/kamalfirstpackage/core2.py", "core2.py"),
+    ("kamalfirstpackage/core.py", "core.py"),
+    ("kamalfirstpackage/core2.py", "core2.py"),
     ("main.py", "main.py"),
     ("main2.py", "main2.py"),
     ("main3.py", "main3.py"),
